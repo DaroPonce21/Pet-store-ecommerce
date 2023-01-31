@@ -1,6 +1,6 @@
 ### E-commerce “Pets love"
 
-<a href='https://pet-store-ecommerce.vercel.app/'/>
+<a href='https://pet-store-ecommerce.vercel.app/'> Link Pets Love </a>
 
 The project will be a web application for the purchase of products and accessories
 Of pets. Within it, users will be able to browse and view the different
