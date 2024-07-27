@@ -29,7 +29,8 @@ could arise.
 * express
 * Sequelize
 * Postgres
-* front-end
+  
+** front-end**
 * React
 * Redux
 * HTML
