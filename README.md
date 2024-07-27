@@ -30,7 +30,7 @@ could arise.
 * Sequelize
 * Postgres
   
-** front-end**
+**Frontend:**
 * React
 * Redux
 * HTML
